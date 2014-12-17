@@ -1,0 +1,4 @@
+SchoolDiary
+===========
+
+School Diary Management
